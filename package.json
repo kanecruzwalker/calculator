@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A web application that leverages Node and Express, as well as common front end technologies",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanercruzwalker/calculator.git"
+  },
+  "author": "Kane RCW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanercruzwalker/calculator/issues"
+  },
+  "homepage": "https://github.com/kanercruzwalker/calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
